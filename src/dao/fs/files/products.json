@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "d3829567dad9d1574cf80b71",
+    "title": "Logitech mouse",
+    "description": "description",
+    "price": "100",
+    "stock": "5",
+    "category": "computadoras",
+    "createdAt": "2024-12-15T05:57:10.778Z",
+    "updatedAt": "2024-12-15T05:57:10.778Z"
+  },
+  {
+    "_id": "59accb94d486da4e11a749ca",
+    "title": "Dell Inspiron ",
+    "description": "description",
+    "price": "300",
+    "stock": "9",
+    "category": "computadoras",
+    "createdAt": "2024-12-15T23:34:22.274Z",
+    "updatedAt": "2024-12-15T23:34:22.274Z"
+  },
+  {
+    "_id": "79776ecfa60fc10cb19abb81",
+    "title": "Monitor Lg 19´ ",
+    "description": "description",
+    "price": "300",
+    "stock": "9",
+    "category": "computadoras",
+    "createdAt": "2024-12-15T23:34:53.122Z",
+    "updatedAt": "2024-12-15T23:34:53.122Z"
+  }
+]
